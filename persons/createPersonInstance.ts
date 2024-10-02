@@ -1,4 +1,4 @@
-import { Validator } from '../../utils/validation/Validator'
+import { Validator } from '@fewo-monorepo/utils'
 import { PERSON_TYPES } from '../enums/Person.enum'
 import { IAddress } from '../interfaces/IAddress'
 import { Guest } from './Guest'

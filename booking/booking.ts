@@ -1,5 +1,5 @@
 import { inject, injectable } from 'inversify'
-import { TYPES } from '../../inversify/types'
+import { TYPES } from '@fewo-monorepo/inversify'
 import type { IBooking } from '../interfaces/IBooking'
 import type { IPerson } from '../interfaces/IPerson'
 import type { IProperty } from '../interfaces/IProperty'

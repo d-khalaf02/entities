@@ -4,7 +4,8 @@ import type { IAddress } from '../interfaces/IAddress'
 import type { IAminities } from '../interfaces/IAminities'
 import type { IPerson } from '../interfaces/IPerson'
 import type { IProperty } from '../interfaces/IProperty'
-import { TYPES } from '../../inversify/types'
+
+import { TYPES } from '@fewo-monorepo/inversify'
 
 
 @injectable()
