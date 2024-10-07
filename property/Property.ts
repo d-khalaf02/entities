@@ -1,4 +1,3 @@
-import 'reflect-metadata'
 import { inject, injectable } from 'inversify'
 import type { IAddress } from '../interfaces/IAddress'
 import type { IAminities } from '../interfaces/IAminities'

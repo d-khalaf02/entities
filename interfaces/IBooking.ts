@@ -7,6 +7,7 @@ export interface IBooking{
     property: IProperty
     guests: IPerson[]
     services: IService[]
+
     checkInDate: Date
     checkOutDate: Date
 }
