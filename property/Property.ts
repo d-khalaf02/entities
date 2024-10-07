@@ -5,7 +5,7 @@ import type { IAminities } from '../interfaces/IAminities'
 import type { IPerson } from '../interfaces/IPerson'
 import type { IProperty } from '../interfaces/IProperty'
 
-import { TYPES } from '@fewo-monorepo/inversify'
+import { TYPES } from '../types/types'
 
 
 @injectable()
